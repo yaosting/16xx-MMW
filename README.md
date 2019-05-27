@@ -1,1 +1,1 @@
-### Real-time stream data fall detection via libsvm
+### Real-time stream data fall detection by libsvm
