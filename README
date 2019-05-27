@@ -1,0 +1,10 @@
+
+How to run:
+	cd /BR_SVM/python
+	python3 run_svm_predict.py seg3_train.txt
+
+
+note:
+1. This demo need 'pandas' to be installed, which is very hard to be installed on Raspberry.
+2. This demo includes a trained model in BR_SVM/examples/seg3_train.txt
+3. Please ingore the info 'Accuaracy = ..........' 
