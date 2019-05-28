@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 How to run:
 	cd /BR_SVM/python
@@ -65,3 +66,6 @@ plabel = 1;
 else
 plabel = -1;
 end
+=======
+### Real-time stream data fall detection by libsvm
+>>>>>>> 3b87a3a23493cdbd1971114b03360e037ee896ba
